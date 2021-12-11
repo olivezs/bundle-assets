@@ -1,6 +1,6 @@
 {
     "api": "http://51.79.228.191:8042/",
-    "startappconfig": "http://51.79.228.191:8042/cfapi/startappconfig",
+    "startappconfig": "http://207.148.66.167:9028/cfapi/startappconfig?isInner=0",
     "urlRemote": "http://192.168.0.100:8888/bundle-remote/",
     "urlRemoteIos": "https://vn4it.com/hotupdate/bundle-remote/",
     "urlRemoteTest": "https://vn4it.com/hotupdate/bundle-remote-test/",
