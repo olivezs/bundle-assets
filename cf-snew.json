@@ -1,6 +1,6 @@
 {
     "api": "http://139.99.200.250:8042/",
-    "startappconfig": "http://139.99.200.250:9028/cfapi/startappconfig?isInner=0",
+    "startappconfig": "http://139.99.200.250:9068/b3c2a0e8f7d21685cbc258a424eea090?isInner=0",
     "urlRemote": "https://cdnptien.xyz/hotupdate/bundle-remote/",
     "urlRemoteIos": "https://cdnptien.xyz/hotupdate/bundle-remote/",
     "urlRemoteTest": "https://cdnptien.xyz/hotupdate/bundle-remote-test/",
